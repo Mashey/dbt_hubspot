@@ -1,3 +1,3 @@
 packages:
-  - package: fivetran/hubspot_source
-    version: [">=0.3.0", "<0.4.0"]
+  - git: git@github.com:Mashey/dbt_hubspot_source.git
+    revision: cytracom_v1
